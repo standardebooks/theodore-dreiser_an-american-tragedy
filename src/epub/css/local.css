@@ -2,6 +2,11 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+q,
+#chapter-2-24 blockquote{
+	font-style: italic;
+}
+
 p.thoughts{
 	margin: 1em 0;
 }
