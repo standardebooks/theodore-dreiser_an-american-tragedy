@@ -90,8 +90,8 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 /* end of letters */
 
@@ -105,8 +105,8 @@ footer{
 [epub|type~="z3998:hymn"] p > span,
 [epub|type~="z3998:song"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:hymn"] p > span + br,
@@ -115,7 +115,7 @@ footer{
 }
 
 p span.i4{
-	text-indent: -1em;
 	padding-left: 3em;
+	text-indent: -1em;
 }
 /* end of poem/verse/song */
