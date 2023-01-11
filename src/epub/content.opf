@@ -28,7 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">An American Tragedy</dc:title>
 		<meta property="file-as" refines="#title">American Tragedy, An</meta>
-		<dc:subject id="subject-1">Traingles (Interpersonal relations)--Fiction</dc:subject>
+		<dc:subject id="subject-1">Triangles (Interpersonal relations)--Fiction</dc:subject>
 		<dc:subject id="subject-2">Trials (Murder)--Fiction</dc:subject>
 		<dc:subject id="subject-3">Social classes--Fiction</dc:subject>
 		<dc:subject id="subject-4">Young men--Fiction</dc:subject>
