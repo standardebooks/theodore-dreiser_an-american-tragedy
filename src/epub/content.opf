@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/theodore-dreiser/an-american-tragedy</dc:identifier>
 		<dc:date>2021-06-16T19:08:29Z</dc:date>
@@ -51,11 +51,11 @@
 		<meta property="group-position" refines="#collection-1">16</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A young man in a relationship with a young woman decides he wants someone else, of a higher social class.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man in a relationship with a young woman decides he wants someone else, of a higher social class.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Clyde Griffith’s parents are poor street-preachers, but Clyde doesn’t “believe,” and finds their work demeaning. At fifteen he gets a job and starts to ease out of their lives, eventually landing in some trouble that causes him to flee the town where they live. Two years later, Clyde meets his well-off uncle, who owns a large factory in upstate New York. Clyde talks his way into a job at the factory, and soon finds himself supervising a roomful of women. All alone, generally shunned by his uncle’s family, and starved for companionship, he breaks the factory’s rules and begins a relationship with a young woman who works for him. But Clyde has visions of marrying a high-society woman, and fortune smiles on him in the form of the daughter of one of his uncle’s neighbors. Soon Clyde finds himself in a love triangle of his own making, and one from which he seems incapable of extracting himself.&lt;/p&gt;
 			&lt;p&gt;A newspaperman before he became a novelist, &lt;a href="https://standardebooks.org/ebooks/theodore-dreiser"&gt;Theodore Dreiser&lt;/a&gt; collected crime stories for years of young men in relationships with young women of poorer means, where the young men found a richer, prettier girl who would go with him, and often took extreme measures to escape from the first girl. &lt;i&gt;An American Tragedy&lt;/i&gt;, based on one of the most infamous of those real-life stories, is a study in lazy ambition, the very real class system in America, and how easy it is to drift into evil. It is populated with poor people who desire nothing more than to be rich, rich people whose only concern is to keep up with their neighbors and not be associated with the “wrong element,” and elements of both who care far more about appearances than reality. It offers further evidence that the world may be very different from 100 years ago, but the people in it are very much the same.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks02/0200421h.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001028397</dc:source>
